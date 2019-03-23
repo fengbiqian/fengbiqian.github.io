@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: fengbiqian personal blog
-subtitle: 瞧！那是情怀的颜色～
+title: Personal Blog
+subtitle: 瞧！那是情怀啊～
 description:
 keywords:
 author: fengbiqian
-language: chinese
+language: zh-CN
 timezone:
 
 # URL
